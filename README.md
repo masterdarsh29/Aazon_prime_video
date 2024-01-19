@@ -1,1 +1,1 @@
-# Aazon_prime_video
+# Amazon_prime_video
